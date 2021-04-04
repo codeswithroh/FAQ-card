@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+#author{
+    text-align: center;
+    color:pink;
+}
 
 h1{
     padding-bottom:1em;
