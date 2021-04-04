@@ -6,7 +6,7 @@
 
 <h2 style="color:violet">Link To My Website</h2>
 
-> <a href="https://codeswithroh.github.io/" style="color:pink; font-weight:bold">FAQ-card</a>
+> <a href="https://codeswithroh-faq.netlify.app/" style="color:pink; font-weight:bold">FAQ-card</a>
 
 
 
