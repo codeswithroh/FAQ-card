@@ -2,7 +2,7 @@
 
 <h2 style="color:violet">The Website</h2>
 
-![](images/Website-screenshot.png)
+![](images/website-screenshot.png)
 
 <h2 style="color:violet">Link To My Website</h2>
 
